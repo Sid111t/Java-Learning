@@ -11,8 +11,8 @@ public class EmployeeInformation {
 
 	public static void main(String[] args) {
 		
-		String name = "Rohit Sharma";
-		int id = 45;
+		String employeeName = "Rohit Sharma";
+		int employeeId = 45;
 		String department = "HR";
 		int salary = 100000;
 		int experience = 15;
@@ -25,8 +25,8 @@ public class EmployeeInformation {
 		System.out.println("========================================");
 		System.out.println();
 		
-		System.out.println("Name          : " + name); 
-		System.out.println("ID            : " + id);
+		System.out.println("Name          : " + employeeName); 
+		System.out.println("ID            : " + employeeId);
 		System.out.println("Department    : " + department);
 		System.out.println("Salary        : " + salary);
 		System.out.println("Experience    : " + experience + " years");

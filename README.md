@@ -1,144 +1,105 @@
-# Java Learning
-
-Welcome to my Java learning repository.
-
-## Goal
-
-This repository documents my journey of learning Java, from Core Java to Spring Boot.
-
-## Topics
-
-- Core Java
-- Advanced Java
-- DBMS
-- Hibernate
-- Spring
-- Spring Boot
-- Maven
-- Mini Projects
-
-## Status
-
-- ✅ Core Java (In Progress)
-- ⏳ Advanced Java
-- ⏳ Spring Boot# Java Learning ☕
-
-Welcome to my Java learning repository.
-
-## About
-
-This repository documents my journey of learning Java, starting from Core Java and progressing to Advanced Java, JDBC, Hibernate, Spring, and Spring Boot.
-
-## Learning Roadmap
-
-- ✅ Core Java (In Progress)
-- ⏳ Advanced Java
-- ⏳ JDBC
-- ⏳ DBMS
-- ⏳ Hibernate
-- ⏳ Spring
-- ⏳ Spring Boot
-- ⏳ Mini Projects
-
-## Author
-
-Siddhesh# ☕ Java Learning
+# ☕ Java Learning
 
 Welcome to my Java Learning repository.
 
-## 📖 About
-
-This repository documents my journey of learning Java from **Core Java** to **Spring Boot**. It contains notes, examples, practice programs, mini projects, and interview-oriented code.
+This repository documents my journey of learning Java, from Core Java fundamentals to Spring Boot development. Every topic contains practice programs, notes, and mini projects that help strengthen my programming skills and prepare me for software development interviews and placements.
 
 ---
 
 ## 🎯 Goal
 
-- Learn Java fundamentals
-- Build a strong backend development foundation
-- Practice clean and well-structured code
-- Prepare for technical interviews and placements
-- Build real-world Java projects
+- Master Core Java fundamentals
+- Learn Advanced Java technologies
+- Build backend applications using Spring Boot
+- Develop real-world Java projects
+- Prepare for technical interviews and campus placements
 
 ---
 
-## 🗺️ Learning Roadmap
+## 📚 Learning Roadmap
 
-### ✅ 01. Core Java (In Progress)
-- Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Arrays
-- Methods
-- Strings
-- OOP
-- Constructors
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
-- Interfaces
-- Exception Handling
-- Collections
-- File Handling
-- Multithreading
-- Java 8 Features
+### ✅ Core Java
+- [x] Basics
+- [x] Variables
+- [ ] Data Types
+- [ ] Operators
+- [ ] Type Casting
+- [ ] Scanner Class
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays
+- [ ] Strings
+- [ ] Methods
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Collections Framework
+- [ ] Exception Handling
+- [ ] File Handling
+- [ ] Multithreading
 
-### ⏳ 02. Advanced Java
-- JDBC
-- Servlets
-- JSP
-- MVC
+### ⏳ Advanced Java
+- [ ] JDBC
+- [ ] Servlets
+- [ ] JSP
 
-### ⏳ 03. DBMS
-- SQL
-- Joins
-- Views
-- Stored Procedures
-- Triggers
+### ⏳ Database
+- [ ] MySQL
+- [ ] SQL Practice
 
-### ⏳ 04. Hibernate
+### ⏳ Hibernate
 
-### ⏳ 05. Spring Framework
+### ⏳ Spring
 
-### ⏳ 06. Spring Boot
+### ⏳ Spring Boot
 
-### ⏳ 07. Maven
+### ⏳ Maven
 
-### ⏳ 08. Mini Projects
+### ⏳ Mini Projects
+
+### ⏳ Major Projects
 
 ---
 
-## 📌 Repository Structure
+## 📁 Repository Structure
 
-```text
+```
 Java-Learning/
 │
 ├── 01-Core-Java/
 ├── 02-Advanced-Java/
 ├── 03-DBMS/
-├── 04-Hibernate/
-├── 05-Spring/
-├── 06-Spring-Boot/
-├── 07-Maven/
-├── 08-Mini-Projects/
+├── 04-JDBC/
+├── 05-Hibernate/
+├── 06-Spring/
+├── 07-Spring-Boot/
+├── Projects/
 └── README.md
 ```
 
 ---
 
+## 💻 Technologies
+
+- Java
+- Eclipse IDE
+- Git
+- GitHub
+
+---
+
 ## 🚀 Current Progress
 
-- ✅ Project Setup
-- ✅ Hello World Program
-- 🔄 Core Java
+✔ Core Java - Basics
+
+✔ Core Java - Variables
+
+🔄 Currently Learning: Core Java
 
 ---
 
 ## 👨‍💻 Author
 
-**Siddhesh**
+**Siddhesh Thakur**
 
-Learning Java one concept at a time 🚀
+Aspiring Java Backend Developer
+
+---

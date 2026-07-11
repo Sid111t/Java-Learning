@@ -11,7 +11,7 @@ public class StudentDetails{
 
 	public static void main(String[] args) {
 		
-		String name = "Siddhesh Thakur";
+		String studentName = "Siddhesh Thakur";
 		int rollNo = 41;
 		String branch = "Information Technology";
 		String collegeName = "Pillai HOC College of Engineering & Technology";
@@ -24,7 +24,7 @@ public class StudentDetails{
 		System.out.println("==============================================================");
 		System.out.println();
 		
-		System.out.println("Name          : " + name); 
+		System.out.println("Name          : " + studentName); 
 		System.out.println("Roll Number   : " + rollNo);
 		System.out.println("Branch        : " + branch);
 		System.out.println("College Name  : " + collegeName);
