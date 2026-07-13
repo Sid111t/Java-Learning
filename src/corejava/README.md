@@ -66,17 +66,25 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
-## 🔄 Currently Learning
+### ✅ Data Types
 
-### ⏳ Data Types
+**Programs:**
 
-Upcoming concepts include:
+- PrimitiveDataTypes
+- PrimitiveVsNonPrimitive
+- DataTypeRanges
+- TypeSelectionExamples
+
+**Concepts Learned:**
 
 - Primitive Data Types
 - Non-Primitive Data Types
-- Size and Range of Data Types
-- Type Selection
-- Real-world Examples
+- Eight Primitive Data Types
+- Wrapper Classes (Introduction)
+- Data Type Ranges
+- `MIN_VALUE` and `MAX_VALUE`
+- Choosing Appropriate Data Types
+- Real-world Data Type Selection
 
 ---
 
@@ -106,6 +114,7 @@ Upcoming concepts include:
 - Build a strong Core Java foundation.
 - Practice Java concepts through hands-on programs.
 - Write clean, readable, and well-documented code.
+- Follow Java coding standards and best practices.
 - Maintain a professional GitHub repository.
 - Prepare for technical interviews and software development roles.
 
@@ -117,7 +126,7 @@ Upcoming concepts include:
 |--------|--------|
 | Basics | ✅ Completed |
 | Variables | ✅ Completed |
-| Data Types | 🔄 In Progress |
+| Data Types | ✅ Completed |
 | Operators | ⏳ Pending |
 | Type Casting | ⏳ Pending |
 | Scanner Class | ⏳ Pending |
@@ -127,10 +136,11 @@ Upcoming concepts include:
 | Strings | ⏳ Pending |
 | Methods | ⏳ Pending |
 | OOP | ⏳ Pending |
-| Collections | ⏳ Pending |
+| Collections Framework | ⏳ Pending |
 | Exception Handling | ⏳ Pending |
 | File Handling | ⏳ Pending |
 | Multithreading | ⏳ Pending |
+| Java 8 Features | ⏳ Pending |
 | JDBC | ⏳ Pending |
 | Mini Projects | ⏳ Pending |
 
