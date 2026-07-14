@@ -88,9 +88,34 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Operators
+
+**Programs:**
+
+- ArithmeticOperators
+- AssignmentOperators
+- RelationalOperators
+- LogicalOperators
+- UnaryOperators
+- TernaryOperator
+- BitwiseOperators
+
+**Concepts Learned:**
+
+- Arithmetic Operators
+- Assignment Operators
+- Relational Operators
+- Logical Operators
+- Unary Operators
+- Prefix and Postfix Operators
+- Ternary Operator (`? :`)
+- Bitwise Operators (`&`, `|`, `^`)
+- Operator Precedence (Introduction)
+
+---
+
 ## 📖 Upcoming Topics
 
-- Operators
 - Type Casting
 - Scanner Class
 - Conditional Statements
@@ -127,7 +152,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Basics | ✅ Completed |
 | Variables | ✅ Completed |
 | Data Types | ✅ Completed |
-| Operators | ⏳ Pending |
+| Operators | ✅ Completed |
 | Type Casting | ⏳ Pending |
 | Scanner Class | ⏳ Pending |
 | Conditional Statements | ⏳ Pending |
