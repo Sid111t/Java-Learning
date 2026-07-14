@@ -11,6 +11,8 @@ public class PrimitiveDataTypes {
 
 	public static void main(String[] args) {
 		
+		// Declare variables using different data types
+		
 		byte age = 22;
 		short year = 2026;
 		int salary = 90000;
@@ -21,6 +23,8 @@ public class PrimitiveDataTypes {
 		
 		char grade = 'A';
 		boolean isEmployee = true;
+		
+		// Display the values
 		
 		System.out.println("=================================");
 		System.out.println("       PRIMITIVE DATA TYPES      ");

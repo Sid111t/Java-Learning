@@ -11,6 +11,8 @@ public class TypeSelectionExamples {
 
 	public static void main(String[] args) {
 		
+		// Declare variables using different data types
+		
 		byte studentAge = 18;
 		short admissionYear = 2026;
 		int salary = 25000;
@@ -22,6 +24,8 @@ public class TypeSelectionExamples {
 		char grade = 'A';
 		boolean isPlaced = false;
 		String studentName = "Rahul";
+		
+		// Display the values
 		
 		System.out.println("=================================");
 		System.out.println("     TYPE SELECTION EXAMPLES     ");

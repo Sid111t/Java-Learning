@@ -11,12 +11,16 @@ public class PrimitiveVsNonPrimitive {
 
 	public static void main(String[] args) {
 		
+		// Declare variables using different data types
+		
 		int age = 40;
 		double salary = 80000.00;
 		char grade = 'A';
 		boolean isEmployee = true;
 		String name = "Rohit";
 		String city = "Mumbai";
+		
+		// Display the values
 		
 		System.out.println("=================================");
 		System.out.println("    PRIMITIVE VS NON-PRIMITIVE   ");

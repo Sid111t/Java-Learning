@@ -11,9 +11,13 @@ public class VariableReassignment {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String studentName = "Siddhesh";
 		int age = 22;
 		String city = "Navi Mumbai";
+		
+		// Display initial values
 		
 		System.out.println("=============================");
 		System.out.println("        BEFORE UPDATE        ");
@@ -26,8 +30,12 @@ public class VariableReassignment {
 		System.out.println("=============================");
 		System.out.println();
 		
+		// Update variable values
+		
 		age = 23;
 		city = "Pune";
+		
+		// Display updated values
 		
 		System.out.println("=============================");
 		System.out.println("         AFTER UPDATE        ");

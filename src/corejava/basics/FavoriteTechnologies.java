@@ -10,6 +10,8 @@ public class FavoriteTechnologies {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("=========================");
 		System.out.println("My Favorite Technologies");
 		System.out.println("=========================");

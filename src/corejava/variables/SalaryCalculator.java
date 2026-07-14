@@ -11,11 +11,15 @@ public class SalaryCalculator {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String employeeName = "Rahul";
 		int employeeId = 101;
 		double basicSalary = 35000;
 		double hra = 10000;
 		double bonus = 2000;
+		
+		// Display initial values
 		
 		System.out.println("=================================");
 		System.out.println("        SALARY CALCULATOR        ");
@@ -32,7 +36,11 @@ public class SalaryCalculator {
 		System.out.println("---------------------------------");
 		System.out.println();
 		
+		// Perform calculations and store the results
+		
 		double grossSalary = basicSalary + hra + bonus;
+		
+		// Display the results
 		
 		System.out.println("Gross Salary : ₹" + grossSalary);
 		System.out.println();

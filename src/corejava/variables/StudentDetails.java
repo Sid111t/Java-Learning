@@ -11,6 +11,8 @@ public class StudentDetails{
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String studentName = "Siddhesh Thakur";
 		int rollNo = 41;
 		String branch = "Information Technology";
@@ -18,6 +20,8 @@ public class StudentDetails{
 		String email = "siddheshthakur9876@gmail.com";
 		String mobileNumber = "+91 9372047101";
 		boolean isHosteller = false;
+		
+		// Display the variable values
 		
 		System.out.println("==============================================================");
 		System.out.println("                    STUDENT DETAILS                           ");

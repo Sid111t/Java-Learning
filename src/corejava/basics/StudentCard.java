@@ -10,6 +10,8 @@ public class StudentCard {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("=============================================================");
 		System.out.println("                        STUDENT CARD                         ");
 		System.out.println("=============================================================");

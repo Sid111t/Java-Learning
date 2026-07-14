@@ -11,11 +11,15 @@ public class VariableDeclaration {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String name = "Siddhesh Thakur";
 		int age = 22;
 		double percentage = 80.20;
 		char grade = 'O';
 		boolean isStudent = true;
+		
+		// Display the variable values
 		
 		System.out.println("=============================");
 		System.out.println("     VARIABLE DECLARATION    ");

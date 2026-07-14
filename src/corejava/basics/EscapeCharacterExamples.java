@@ -10,6 +10,8 @@ public class EscapeCharacterExamples {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("=========================");
 		System.out.println("Escape Characters in Java");
 		System.out.println("=========================");

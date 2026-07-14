@@ -10,6 +10,8 @@ public class StarPattern {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("=========================");
 		System.out.println("Star Patterns");
 		System.out.println("=========================");

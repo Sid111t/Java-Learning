@@ -10,6 +10,8 @@ public class WelcomeBanner {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("*************************************************");
 		System.out.println("*            WELCOME TO JAVA LEARNING           *");
 		System.out.println("*************************************************");

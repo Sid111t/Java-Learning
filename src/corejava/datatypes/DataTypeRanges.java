@@ -11,6 +11,8 @@ public class DataTypeRanges {
 
 	public static void main(String[] args) {
 		
+		// Display the minimum and maximum values of primitive data types
+		
 		System.out.println("==================================");
 		System.out.println("         DATA TYPE RANGES         ");
 		System.out.println("==================================");

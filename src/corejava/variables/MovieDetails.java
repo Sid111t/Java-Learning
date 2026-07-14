@@ -11,6 +11,8 @@ public class MovieDetails {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String movieName = "Dhamaal";
 		int releaseYear = 2007;
 		String genre = "Comedy";
@@ -20,6 +22,8 @@ public class MovieDetails {
 		int duration = 137;
 		double imdbRating = 7.5;
 		boolean isAvailableOnOtt = true;
+		
+		// Display the variable values
 		
 		System.out.println("=====================================================================================");
 		System.out.println("                                   MOVIE DETAILS                                     ");

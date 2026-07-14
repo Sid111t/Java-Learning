@@ -10,6 +10,8 @@ public class MiniResume {
 
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("==============================================================");
 		System.out.println("                          MY RESUME                           ");
 		System.out.println("==============================================================");

@@ -11,6 +11,8 @@ public class PersonalIntroduction {
 	
 	public static void main(String[] args) {
 		
+		// Display messages on the console
+		
 		System.out.println("=========================");
 		System.out.println("Personal Introduction");
 		System.out.println("=========================");

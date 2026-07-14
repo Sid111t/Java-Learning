@@ -11,6 +11,8 @@ public class ProductDetails {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String productName = "Iphone";
 		int productId = 1;
 		String category = "Smart Phone";
@@ -20,6 +22,8 @@ public class ProductDetails {
 		double discountPercentage = 19.99;
 		boolean isInStock = true;
 		double rating = 4.9;
+		
+		// Display the variable values
 		
 		System.out.println("===================================");
 		System.out.println("         PRODUCT DETAILS           ");

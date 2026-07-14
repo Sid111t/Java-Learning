@@ -11,6 +11,8 @@ public class EmployeeInformation {
 
 	public static void main(String[] args) {
 		
+		// Declare and initialize variables
+		
 		String employeeName = "Rohit Sharma";
 		int employeeId = 45;
 		String department = "HR";
@@ -19,6 +21,8 @@ public class EmployeeInformation {
 		String email = "rohitsharma45@gmail.com";
 		String mobileNumber = "+91 9370264045";
 		boolean isPermanent = true;
+		
+		// Display the variable values
 		
 		System.out.println("========================================");
 		System.out.println("          EMPLOYEE INFORMATION          ");
