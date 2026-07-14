@@ -23,7 +23,7 @@ This repository documents my journey of learning Java, from Core Java fundamenta
 - [x] Basics
 - [x] Variables
 - [x] Data Types
-- [ ] Operators
+- [x] Operators
 - [ ] Type Casting
 - [ ] Scanner Class
 - [ ] Conditional Statements
@@ -83,7 +83,15 @@ Java-Learning/
 │   ├── basics/
 │   ├── variables/
 │   ├── datatypes/
-│   └── operators/ (Coming Soon)
+│   ├── operators/
+│   ├── typecasting/
+│   ├── scanner/
+│   ├── conditionalstatements/
+│   ├── loops/
+│   ├── arrays/
+│   ├── strings/
+│   ├── methods/
+│   └── oop/
 │
 ├── 02-Advanced-Java/
 ├── 03-DBMS/
@@ -113,18 +121,19 @@ Java-Learning/
 - Core Java - Basics
 - Core Java - Variables
 - Core Java - Data Types
+- Core Java - Operators
 
 ### 🔄 Currently Learning
 
-- Core Java - Operators
+- Core Java - Type Casting
 
 ---
 
 ## 📊 Repository Statistics
 
-- ✅ Topics Completed: **3**
-- ✅ Programs Written: **25**
-- 🎯 Next Milestone: **Complete Operators**
+- ✅ Topics Completed: **4**
+- ✅ Programs Written: **32**
+- 🎯 Next Milestone: **Complete Type Casting**
 
 ---
 
