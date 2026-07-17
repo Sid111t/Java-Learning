@@ -114,9 +114,30 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Type Casting
+
+**Programs:**
+
+- WideningTypeCasting
+- NarrowingTypeCasting
+- CharacterCasting
+- RealWorldCasting
+
+**Concepts Learned:**
+
+- Widening Type Casting (Implicit)
+- Narrowing Type Casting (Explicit)
+- Automatic Type Conversion
+- Explicit Type Conversion
+- Character to Integer Conversion
+- Unicode Values
+- Data Loss in Narrowing Casting
+- Real-world Type Casting Examples
+
+---
+
 ## 📖 Upcoming Topics
 
-- Type Casting
 - Scanner Class
 - Conditional Statements
 - Loops
@@ -153,7 +174,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Variables | ✅ Completed |
 | Data Types | ✅ Completed |
 | Operators | ✅ Completed |
-| Type Casting | ⏳ Pending |
+| Type Casting | ✅ Completed |
 | Scanner Class | ⏳ Pending |
 | Conditional Statements | ⏳ Pending |
 | Loops | ⏳ Pending |
