@@ -136,9 +136,33 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Scanner Class
+
+**Programs:**
+
+- StudentInput
+- EmployeeInput
+- ProductInput
+- BankAccountInput
+- StudentResultInput
+
+**Concepts Learned:**
+
+- Importing the `Scanner` Class
+- Creating a `Scanner` Object
+- Reading User Input
+- Reading `String` Values
+- Reading Numeric Data Types (`int`, `long`, `double`)
+- Reading `boolean` Values
+- Reading a Single Character using `charAt(0)`
+- Performing Calculations on User Input
+- Using the Ternary Operator with User Input
+- Closing the `Scanner` Object
+
+---
+
 ## 📖 Upcoming Topics
 
-- Scanner Class
 - Conditional Statements
 - Loops
 - Arrays
@@ -175,13 +199,13 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Data Types | ✅ Completed |
 | Operators | ✅ Completed |
 | Type Casting | ✅ Completed |
-| Scanner Class | ⏳ Pending |
+| Scanner Class | ✅ Completed |
 | Conditional Statements | ⏳ Pending |
 | Loops | ⏳ Pending |
 | Arrays | ⏳ Pending |
 | Strings | ⏳ Pending |
 | Methods | ⏳ Pending |
-| OOP | ⏳ Pending |
+| Object-Oriented Programming (OOP) | ⏳ Pending |
 | Collections Framework | ⏳ Pending |
 | Exception Handling | ⏳ Pending |
 | File Handling | ⏳ Pending |
@@ -189,6 +213,14 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Java 8 Features | ⏳ Pending |
 | JDBC | ⏳ Pending |
 | Mini Projects | ⏳ Pending |
+
+---
+
+## 📊 Statistics
+
+- ✅ Topics Completed: **6**
+- ✅ Programs Written: **37**
+- 🎯 Next Milestone: **Complete Conditional Statements**
 
 ---
 
