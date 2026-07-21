@@ -161,9 +161,31 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Conditional Statements
+
+**Programs:**
+
+- SimpleIfStatement
+- IfElseStatement
+- ElseIfLadder
+- NestedIfStatement
+- SwitchStatement
+
+**Concepts Learned:**
+
+- Simple `if` Statement
+- `if-else` Statement
+- `else-if` Ladder
+- Nested `if` Statement
+- `switch` Statement
+- `case` and `break`
+- `default` Case
+- Choosing the Appropriate Conditional Statement
+
+---
+
 ## 📖 Upcoming Topics
 
-- Conditional Statements
 - Loops
 - Arrays
 - Strings
@@ -200,7 +222,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Operators | ✅ Completed |
 | Type Casting | ✅ Completed |
 | Scanner Class | ✅ Completed |
-| Conditional Statements | ⏳ Pending |
+| Conditional Statements | ✅ Completed |
 | Loops | ⏳ Pending |
 | Arrays | ⏳ Pending |
 | Strings | ⏳ Pending |
@@ -218,9 +240,9 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **6**
-- ✅ Programs Written: **37**
-- 🎯 Next Milestone: **Complete Conditional Statements**
+- ✅ Topics Completed: **7**
+- ✅ Programs Written: **46**
+- 🎯 Next Milestone: **Complete Loops**
 
 ---
 
