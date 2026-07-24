@@ -184,9 +184,60 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Loops
+
+**Programs:**
+
+#### For Loop
+
+- PrintNumbersForLoop
+- SumOfNaturalNumbers
+- MultiplicationTable
+- EvenNumbers
+- OddNumbers
+- ReverseNumbers
+- FactorialOfNumber
+- SumOfEvenNumbers
+- SumOfOddNumbers
+- CountEvenNumbers
+
+#### While Loop
+
+- PrintNumbersWhileLoop
+- SumOfNaturalNumbersWhileLoop
+- MultiplicationTableWhileLoop
+- EvenNumbersWhileLoop
+- FactorialWhileLoop
+
+#### Do-While Loop
+
+- PrintNumbersDoWhileLoop
+
+#### Nested Loops
+
+- SquareStarPattern
+- RightTriangleStarPattern
+
+**Concepts Learned:**
+
+- `for` Loop
+- `while` Loop
+- `do-while` Loop
+- Nested Loops
+- Loop Initialization
+- Loop Condition
+- Loop Increment and Decrement
+- Counter-Controlled Loops
+- Accumulator Pattern
+- Counting Pattern
+- Conditional Statements inside Loops
+- Reverse Iteration
+- Pattern Printing using Nested Loops
+
+---
+
 ## 📖 Upcoming Topics
 
-- Loops
 - Arrays
 - Strings
 - Methods
@@ -223,7 +274,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Type Casting | ✅ Completed |
 | Scanner Class | ✅ Completed |
 | Conditional Statements | ✅ Completed |
-| Loops | ⏳ Pending |
+| Loops | ✅ Completed |
 | Arrays | ⏳ Pending |
 | Strings | ⏳ Pending |
 | Methods | ⏳ Pending |
@@ -240,8 +291,8 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **7**
-- ✅ Programs Written: **46**
+- ✅ Topics Completed: **8**
+- ✅ Programs Written: **64**
 - 🎯 Next Milestone: **Complete Loops**
 
 ---
