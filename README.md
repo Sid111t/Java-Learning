@@ -27,7 +27,7 @@ This repository documents my journey of learning Java, from Core Java fundamenta
 - [x] Type Casting
 - [x] Scanner Class
 - [x] Conditional Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Arrays
 - [ ] Strings
 - [ ] Methods
@@ -125,18 +125,19 @@ Java-Learning/
 - Core Java - Type Casting
 - Core Java - Scanner Class
 - Core Java - Conditional Statements
+- Core Java - Loops
 
 ### 🔄 Currently Learning
 
-- Core Java - Loops
+- Core Java - Arrays
 
 ---
 
 ## 📊 Repository Statistics
 
-- ✅ Topics Completed: **7**
-- ✅ Programs Written: **46**
-- 🎯 Next Milestone: **Complete Loops**
+- ✅ Topics Completed: **8**
+- ✅ Programs Written: **64**
+- 🎯 Next Milestone: **Complete Arrays**
 
 ---
 
