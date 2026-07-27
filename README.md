@@ -28,7 +28,7 @@ This repository documents my journey of learning Java, from Core Java fundamenta
 - [x] Scanner Class
 - [x] Conditional Statements
 - [x] Loops
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Methods
 - [ ] Object-Oriented Programming (OOP)
@@ -126,18 +126,19 @@ Java-Learning/
 - Core Java - Scanner Class
 - Core Java - Conditional Statements
 - Core Java - Loops
+- Core Java - Arrays
 
 ### 🔄 Currently Learning
 
-- Core Java - Arrays
+- Core Java - Strings
 
 ---
 
 ## 📊 Repository Statistics
 
-- ✅ Topics Completed: **8**
-- ✅ Programs Written: **64**
-- 🎯 Next Milestone: **Complete Arrays**
+- ✅ Topics Completed: **9**
+- ✅ Programs Written: **76**
+- 🎯 Next Milestone: **Complete Strings**
 
 ---
 
