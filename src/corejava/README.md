@@ -236,9 +236,45 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Arrays
+
+**Programs:**
+
+- ArrayDeclaration
+- PrintArrayElements
+- SumOfArrayElements
+- LargestElement
+- SmallestElement
+- AverageOfArrayElements
+- SearchElement
+- ReverseArrayElements
+- CopyArray
+- CountEvenOddElements
+- SecondLargestElement
+- EnhancedForLoopArrayTraversal
+
+**Concepts Learned:**
+
+- Array Declaration
+- Array Initialization
+- Accessing Array Elements
+- Array Traversal using `for` Loop
+- Array Traversal using Enhanced `for` Loop
+- Finding Sum of Array Elements
+- Finding Average of Array Elements
+- Finding Largest Element
+- Finding Smallest Element
+- Finding Second Largest Element
+- Searching an Element in an Array
+- Reversing Array Traversal
+- Copying Arrays
+- Counting Even and Odd Elements
+- Using the `length` Property
+
+---
+
 ## 📖 Upcoming Topics
 
-- Arrays
 - Strings
 - Methods
 - Object-Oriented Programming (OOP)
@@ -275,7 +311,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Scanner Class | ✅ Completed |
 | Conditional Statements | ✅ Completed |
 | Loops | ✅ Completed |
-| Arrays | ⏳ Pending |
+| Arrays | ✅ Completed |
 | Strings | ⏳ Pending |
 | Methods | ⏳ Pending |
 | Object-Oriented Programming (OOP) | ⏳ Pending |
@@ -291,9 +327,9 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **8**
-- ✅ Programs Written: **64**
-- 🎯 Next Milestone: **Complete Loops**
+- ✅ Topics Completed: **9**
+- ✅ Programs Written: **76**
+- 🎯 Next Milestone: **Complete Strings**
 
 ---
 
