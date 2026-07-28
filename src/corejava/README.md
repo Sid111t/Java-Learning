@@ -273,9 +273,55 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Strings
+
+**Programs:**
+
+- StringDeclaration
+- StringLength
+- StringConcatenation
+- CompareStrings
+- ConvertCase
+- CharacterAtIndex
+- ContainsSubstring
+- StartsWithEndsWith
+- SubstringExtraction
+- ReplaceCharacters
+- TrimWhitespace
+- EmptyStringCheck
+- IsBlankCheck
+- IndexOfCharacter
+- SplitString
+- ReverseString
+- PalindromeCheck
+- CountVowels
+
+**Concepts Learned:**
+
+- String Declaration and Initialization
+- String Immutability (Introduction)
+- String Concatenation
+- Finding String Length using `length()`
+- Comparing Strings using `equals()` and `equalsIgnoreCase()`
+- Converting Case using `toUpperCase()` and `toLowerCase()`
+- Accessing Characters using `charAt()`
+- Checking Substrings using `contains()`
+- Checking Prefix and Suffix using `startsWith()` and `endsWith()`
+- Extracting Substrings using `substring()`
+- Replacing Characters using `replace()`
+- Removing Whitespace using `trim()`
+- Checking Empty Strings using `isEmpty()`
+- Checking Blank Strings using `isBlank()`
+- Finding Character Position using `indexOf()`
+- Splitting Strings using `split()`
+- Reversing a String using a `for` Loop
+- Checking Palindromes
+- Counting Vowels using Loops and Conditional Statements
+
+---
+
 ## 📖 Upcoming Topics
 
-- Strings
 - Methods
 - Object-Oriented Programming (OOP)
 - Collections Framework
@@ -312,7 +358,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Conditional Statements | ✅ Completed |
 | Loops | ✅ Completed |
 | Arrays | ✅ Completed |
-| Strings | ⏳ Pending |
+| Strings | ✅ Completed |
 | Methods | ⏳ Pending |
 | Object-Oriented Programming (OOP) | ⏳ Pending |
 | Collections Framework | ⏳ Pending |
@@ -327,9 +373,9 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **9**
-- ✅ Programs Written: **76**
-- 🎯 Next Milestone: **Complete Strings**
+- ✅ Topics Completed: **10**
+- ✅ Programs Written: **94**
+- 🎯 Next Milestone: **Complete Methods**
 
 ---
 
