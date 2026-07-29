@@ -30,7 +30,7 @@ This repository documents my journey of learning Java, from Core Java fundamenta
 - [x] Loops
 - [x] Arrays
 - [x] Strings
-- [ ] Methods
+- [x] Methods
 - [ ] Object-Oriented Programming (OOP)
 - [ ] Collections Framework
 - [ ] Exception Handling
@@ -128,18 +128,19 @@ Java-Learning/
 - Core Java - Loops
 - Core Java - Arrays
 - Core Java - Strings
+- Core Java - Methods
 
 ### 🔄 Currently Learning
 
-- Core Java - Methods
+- Core Java - Object-Oriented Programming (OOP)
 
 ---
 
 ## 📊 Repository Statistics
 
-- ✅ Topics Completed: **10**
-- ✅ Programs Written: **94**
-- 🎯 Next Milestone: **Complete Methods**
+- ✅ Topics Completed: **11**
+- ✅ Programs Written: **104**
+- 🎯 Next Milestone: **Complete Object-Oriented Programming (OOP)**
 
 ---
 
