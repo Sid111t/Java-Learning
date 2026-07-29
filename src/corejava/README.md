@@ -320,9 +320,41 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Methods
+
+**Programs:**
+
+- MethodDeclaration
+- MethodWithNoParameters
+- MethodWithParameters
+- MethodWithReturnValue
+- MethodOverloading
+- MethodCallingAnotherMethod
+- RecursiveMethod
+- VariableScopeInMethods
+- PassByValue
+- MenuDrivenCalculator
+
+**Concepts Learned:**
+
+- Method Declaration
+- Method Invocation
+- Methods with No Parameters
+- Methods with Parameters
+- Methods with Return Values
+- `return` Keyword
+- Method Overloading
+- Calling One Method from Another
+- Recursive Methods
+- Variable Scope in Methods
+- Pass by Value
+- Code Reusability using Methods
+- Modular Programming
+
+---
+
 ## 📖 Upcoming Topics
 
-- Methods
 - Object-Oriented Programming (OOP)
 - Collections Framework
 - Exception Handling
@@ -359,7 +391,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Loops | ✅ Completed |
 | Arrays | ✅ Completed |
 | Strings | ✅ Completed |
-| Methods | ⏳ Pending |
+| Methods | ✅ Completed |
 | Object-Oriented Programming (OOP) | ⏳ Pending |
 | Collections Framework | ⏳ Pending |
 | Exception Handling | ⏳ Pending |
@@ -373,9 +405,9 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **10**
-- ✅ Programs Written: **94**
-- 🎯 Next Milestone: **Complete Methods**
+- ✅ Topics Completed: **11**
+- ✅ Programs Written: **104**
+- 🎯 Next Milestone: **Start Object-Oriented Programming (OOP)**
 
 ---
 
