@@ -353,9 +353,51 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ---
 
+### ✅ Object-Oriented Programming (OOP)
+
+**Programs:**
+
+- ClassAndObject
+- MultipleObjects
+- DefaultConstructor
+- ParameterizedConstructor
+- ConstructorOverloading
+- Encapsulation
+- Inheritance
+- MethodOverriding
+- Abstraction
+- InterfaceDemo
+- SuperKeyword
+- FinalKeyword
+
+**Concepts Learned:**
+
+- Class and Object
+- Instance Variables
+- Instance Methods
+- Object Creation
+- Default Constructor
+- Parameterized Constructor
+- Constructor Overloading
+- `this` Keyword
+- Encapsulation
+- Getters and Setters
+- Inheritance
+- Method Overriding
+- Runtime Polymorphism
+- Abstraction
+- Abstract Class
+- Abstract Method
+- Interface
+- Interface Implementation using `implements`
+- `super` Keyword
+- `final` Keyword
+- Code Reusability using OOP
+
+---
+
 ## 📖 Upcoming Topics
 
-- Object-Oriented Programming (OOP)
 - Collections Framework
 - Exception Handling
 - File Handling
@@ -392,7 +434,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 | Arrays | ✅ Completed |
 | Strings | ✅ Completed |
 | Methods | ✅ Completed |
-| Object-Oriented Programming (OOP) | ⏳ Pending |
+| Object-Oriented Programming (OOP) | ✅ Completed |
 | Collections Framework | ⏳ Pending |
 | Exception Handling | ⏳ Pending |
 | File Handling | ⏳ Pending |
@@ -405,8 +447,8 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 ## 📊 Statistics
 
-- ✅ Topics Completed: **11**
-- ✅ Programs Written: **104**
+- ✅ Topics Completed: **12**
+- ✅ Programs Written: **116**
 - 🎯 Next Milestone: **Start Object-Oriented Programming (OOP)**
 
 ---
