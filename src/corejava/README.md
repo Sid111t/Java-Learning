@@ -449,7 +449,7 @@ Each topic is organized into separate packages with well-documented examples, pr
 
 - ✅ Topics Completed: **12**
 - ✅ Programs Written: **116**
-- 🎯 Next Milestone: **Start Object-Oriented Programming (OOP)**
+- 🎯 Next Milestone: **Complete Collections Framework**
 
 ---
 
