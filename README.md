@@ -31,7 +31,7 @@ This repository documents my journey of learning Java, from Core Java fundamenta
 - [x] Arrays
 - [x] Strings
 - [x] Methods
-- [ ] Object-Oriented Programming (OOP)
+- [x] Object-Oriented Programming (OOP)
 - [ ] Collections Framework
 - [ ] Exception Handling
 - [ ] File Handling
@@ -92,6 +92,16 @@ Java-Learning/
 │   ├── strings/
 │   ├── methods/
 │   └── oop/
+│       ├── abstraction/
+│       ├── classandobject/
+│       ├── constructors/
+│       ├── encapsulation/
+│       ├── finalkeyword/
+│       ├── inheritance/
+│       ├── interfaces/
+│       ├── multipleobjects/
+│       ├── polymorphism/
+│       └── superkeyword/
 │
 ├── 02-Advanced-Java/
 ├── 03-DBMS/
@@ -129,18 +139,19 @@ Java-Learning/
 - Core Java - Arrays
 - Core Java - Strings
 - Core Java - Methods
+- Core Java - Object-Oriented Programming (OOP)
 
 ### 🔄 Currently Learning
 
-- Core Java - Object-Oriented Programming (OOP)
+- Core Java - Collections Framework
 
 ---
 
 ## 📊 Repository Statistics
 
-- ✅ Topics Completed: **11**
-- ✅ Programs Written: **104**
-- 🎯 Next Milestone: **Complete Object-Oriented Programming (OOP)**
+- ✅ Topics Completed: **12**
+- ✅ Programs Written: **116**
+- 🎯 Next Milestone: **Complete Collections Framework**
 
 ---
 
